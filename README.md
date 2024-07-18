@@ -1,5 +1,5 @@
 # Breadth-First-Search-Snake 🐍
-
+<br/><img src="https://github.com/gv3Dev/Breadth-First-Search-Snake/blob/main/snakeAlgo.png?raw=true"/><br/>
 #### Please note that this script is not finished & requires more work. However, it is usable & fully functional, it just isn't at it's best. (yet) :) <br/>
 
 This repository contains a JavaScript implementation of a Breadth-First Search (BFS) based pathfinding algorithm for the classic Snake game. The script automatically plays the game, guiding the snake towards the food while avoiding collisions with its own body and the walls.
